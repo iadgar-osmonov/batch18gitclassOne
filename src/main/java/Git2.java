@@ -1,3 +1,5 @@
 public class Git2 {
-    ma
+    public static void main(String[] args) {
+
+    }
 }
